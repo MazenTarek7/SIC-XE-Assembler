@@ -1,4 +1,4 @@
-								**SIC/XE Assembler**
+							**SIC/XE Assembler**
 
 The Simplified Instructional Computer is a hypothetical computer system introduced in System Software: An Introduction to Systems Programming, by Leland Beck.
 
